@@ -6,6 +6,7 @@ It uses chocolatey (see https://docs.chocolatey.org/) to install applications an
 
 You might need to open powershell as an administrator and make sure to be able to execute the script, e.g:
 ``` Set-ExecutionPolicy Bypass -Scope  CurrentUser
+
 and then execute:
 ``` .\install.ps1
 
