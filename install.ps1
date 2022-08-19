@@ -1,6 +1,6 @@
 $appsToInstall = 'chocolateygui', 'bitwarden', 'microsoft-windows-terminal', 'sysinternals', 'vlc', 'powertoys', 'paint.net', '7zip.install', 'dotnetcore-sdk', 'git.install', `
 			'tortoisegit', 'notepadplusplus.install', 'visualstudiocode', 'postman', 'googlechrome', 'firefox', 'jetbrainstoolbox', `
-			'jetbrains-rider', 'datagrip', 'sql-server-management-studio', 'wsl2', 'wsl-ubuntu-2204'
+			'jetbrains-rider', 'datagrip', 'sql-server-management-studio', 'wsl2', 'wsl-ubuntu-2204', 'drawio'
 
 
 $testchoco = powershell choco -v
